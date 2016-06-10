@@ -8,18 +8,18 @@ body {
 p {
    width: 1000px;
    padding: 10px;
-   margin: 10px,0;
+   margin: 10px;
 }
 
 
 div {
     border: 10px solid #665544;
-    margin: 10px,0;
+    margin: 10px;
 }
 
 img {
-    width: 300px,0;
-    height: 350px,0;
+    width: 300px;
+    height: 350px;
 
 }
 
@@ -44,4 +44,3 @@ figcaption {
            margin: 0px 0px 10px 10px;
            padding: 20px;
 }
-           
