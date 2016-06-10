@@ -1,0 +1,47 @@
+body { 
+     font-family: Arial;
+     color: black;
+     background-color: #C8C8C8;
+     font-size: 1.4em;
+}
+
+p {
+   width: 1000px;
+   padding: 10px;
+   margin: 10px,0;
+}
+
+
+div {
+    border: 10px solid #665544;
+    margin: 10px,0;
+}
+
+img {
+    width: 300px,0;
+    height: 350px,0;
+
+}
+
+figure {
+       border: 10px solid #665544;
+      font-size: 0.75em;
+}
+
+h1, h2, h3 {
+                font-family: Arial;
+                color: brown;
+                text-align: center;
+                padding: 5px;
+                margin: 5px;
+}
+
+figcaption {
+           float: left;
+           width: 350px;
+           font-size: 100%;
+           font-family: Arial;
+           margin: 0px 0px 10px 10px;
+           padding: 20px;
+}
+           
