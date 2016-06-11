@@ -47,7 +47,9 @@ figcaption {
 }
 
 .links {
-      font-size: 18px
+     font-size: 18px
 }
 
-
+.body-content {
+     font-family: Helvetica;
+}
